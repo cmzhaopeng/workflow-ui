@@ -9,7 +9,7 @@ module.exports = {
       // 测试时使用
       // entry: 'src/main.js',
       // 发布时使用
-      entry: 'src/index.js',
+      entry: 'src/main.js',
       template: 'public/index.html',
       filename: 'index.html'
     }

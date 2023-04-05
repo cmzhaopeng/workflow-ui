@@ -30,27 +30,26 @@
     "material components",
     "vue framework"
   ],
-  "dependencies": {},
-  "devDependencies": {
-    "@vue/cli-plugin-babel": "^4.4.5",
-    "@vue/cli-plugin-eslint": "^4.4.5",
-    "@vue/cli-service": "^4.4.5",
-    "babel-eslint": "^10.1.0",
-    "core-js": "^3.6.5",
-    "eslint": "^6.8.0",
-    "eslint-config-standard": "^14.1.1",
-    "eslint-plugin-import": "^2.21.2",
-    "eslint-plugin-node": "^11.1.0",
-    "eslint-plugin-promise": "^4.2.1",
-    "eslint-plugin-standard": "^4.0.1",
-    "eslint-plugin-vue": "^6.2.2",
-    "node-sass": "^4.14.1",
-    "sass-loader": "^8.0.2",
-    "vue": "^2.6.10",
-    "vue-template-compiler": "^2.6.10"
-  },
   "browserslist": [
     "> 1%",
     "last 2 versions"
-  ]
+  ],
+  "dependencies": {
+    "@vue/cli-plugin-babel": "^5.0.8",
+    "@vue/cli-plugin-eslint": "^5.0.8",
+    "@vue/cli-service": "^5.0.8",
+    "babel-eslint": "^10.1.0",
+    "core-js": "^3.30.0",
+    "eslint": "^8.37.0",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^6.1.1",
+    "eslint-plugin-standard": "^5.0.0",
+    "eslint-plugin-vue": "^9.10.0",
+    "node-sass": "^8.0.0",
+    "sass-loader": "^13.2.2",
+    "vue": "^3.2.47",
+    "vue-template-compiler": "^2.7.14"
+  }
 }
